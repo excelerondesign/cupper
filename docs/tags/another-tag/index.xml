@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>another tag on Cupper</title>
-    <link>https://thepaciellogroup.github.io/cupper/tags/another-tag/</link>
-    <description>Recent content in another tag on Cupper</description>
+    <title>another tag on exceleron.design</title>
+    <link>https://excelerondesign.github.io/cupper/tags/another-tag/</link>
+    <description>Recent content in another tag on exceleron.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thepaciellogroup.github.io/cupper/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://excelerondesign.github.io/cupper/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Pattern File</title>
-      <link>https://thepaciellogroup.github.io/cupper/patterns/pattern/</link>
+      <link>https://excelerondesign.github.io/cupper/patterns/pattern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thepaciellogroup.github.io/cupper/patterns/pattern/</guid>
+      <guid>https://excelerondesign.github.io/cupper/patterns/pattern/</guid>
       <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
 Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation.</description>
     </item>

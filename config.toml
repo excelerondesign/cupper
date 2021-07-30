@@ -4,6 +4,7 @@ baseURL = "https://excelerondesign.github.io/cupper"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
+enableEmoji = true
 
 [params]
   description = "Documentation for common design and code patterns used by Exceleron Designs."

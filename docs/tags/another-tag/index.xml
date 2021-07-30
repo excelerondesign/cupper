@@ -8,10 +8,10 @@
     <language>en-us</language><atom:link href="https://excelerondesign.github.io/cupper/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Pattern File</title>
-      <link>https://excelerondesign.github.io/cupper/patterns/pattern/</link>
+      <link>https://excelerondesign.github.io/cupper/patterns/patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://excelerondesign.github.io/cupper/patterns/pattern/</guid>
+      <guid>https://excelerondesign.github.io/cupper/patterns/patterns/</guid>
       <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
 Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&#39; documentation.</description>
     </item>

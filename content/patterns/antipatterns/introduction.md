@@ -1,6 +1,5 @@
 +++
-title="Anti-Patterns"
-subtitle="Code patterns identified to be harmful to developers and users alike"
+title="An Introduction"
 +++
 
 ### Anti-Patterns and You!

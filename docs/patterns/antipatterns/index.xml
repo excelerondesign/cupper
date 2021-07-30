@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anti-Patterns on exceleron.design</title>
+    <title>Anti Patterns on exceleron.design</title>
     <link>https://excelerondesign.github.io/cupper/patterns/antipatterns/</link>
-    <description>Recent content in Anti-Patterns on exceleron.design</description>
+    <description>Recent content in Anti Patterns on exceleron.design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://excelerondesign.github.io/cupper/patterns/antipatterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anti-Patterns</title>
+      <title>An Introduction</title>
       <link>https://excelerondesign.github.io/cupper/patterns/antipatterns/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

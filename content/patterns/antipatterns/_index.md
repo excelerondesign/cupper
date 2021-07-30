@@ -1,3 +1,3 @@
 +++
-title = "Anti-Patterns"
+title = "Anti Patterns"
 +++

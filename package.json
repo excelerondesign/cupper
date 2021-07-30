@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ThePacielloGroup/cupper#readme",
   "devDependencies": {
+    "gitmoji-commit-hook": "^3.0.2",
     "pre-commit": "^1.2.2",
     "sw-precache": "^5.2.0"
   }

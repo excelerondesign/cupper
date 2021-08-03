@@ -1,9 +1,6 @@
+[build]
+    command = "npm run build:netlify"
+    publish = "docs"
 [context.production.environment]
-HUGO_VERSION = "0.86.1"
-HUGO_ENV = "production"
-
-[context.branch-deploy]
-command = "hugo -b $DEPLOY_PRIME_URL"
-
-[context.production.environment]
-HUGO_PRODUCTION = "true"
+    HUGO_VERSION = "0.86.1"
+    HUGO_ENV = "production"

@@ -1,6 +1,5 @@
 languageCode = "en-us"
 title = "exceleron.design"
-baseURL = "$HUGO_BASE_URL"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"

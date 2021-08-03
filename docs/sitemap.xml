@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://excelerondesign.github.io/cupper/patterns/antipatterns/</loc>
+    <loc>$HUGO_BASE_URL/patterns/antipatterns/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/patterns/antipatterns/introduction/</loc>
+    <loc>$HUGO_BASE_URL/patterns/antipatterns/introduction/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/tags/another-tag/</loc>
+    <loc>$HUGO_BASE_URL/tags/another-tag/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/categories/</loc>
+    <loc>$HUGO_BASE_URL/categories/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/print-version/</loc>
+    <loc>$HUGO_BASE_URL/print-version/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/tags/example-tag/</loc>
+    <loc>$HUGO_BASE_URL/tags/example-tag/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/</loc>
+    <loc>$HUGO_BASE_URL/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/patterns/style-guide/</loc>
+    <loc>$HUGO_BASE_URL/patterns/style-guide/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/patterns/</loc>
+    <loc>$HUGO_BASE_URL/patterns/</loc>
   </url><url>
-    <loc>https://excelerondesign.github.io/cupper/tags/</loc>
+    <loc>$HUGO_BASE_URL/tags/</loc>
   </url>
 </urlset>

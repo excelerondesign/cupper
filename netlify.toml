@@ -4,3 +4,6 @@ HUGO_ENV = "production"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
+
+[context.production.environment]
+HUGO_PRODUCTION = "true"

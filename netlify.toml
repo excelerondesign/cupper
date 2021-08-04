@@ -1,6 +1,7 @@
 [build]
     baseUrl = "$DEPLOY_PRIME_URL"
     HUGO_VERSION = "0.86.1"
+    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
 [context.deploy-preview]
     baseUrl = "$DEPLOY_PRIME_URL"
 [context.branch-deploy]

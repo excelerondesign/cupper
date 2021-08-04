@@ -3,8 +3,8 @@
     HUGO_VERSION = "0.86.1"
     command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
 [context.deploy-preview]
-    baseUrl = "$DEPLOY_PRIME_URL"
+    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
 [context.branch-deploy]
-    baseUrl = "$DEPLOY_PRIME_URL"
+    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
 [context.production]
-    baseUrl = "$DEPLOY_PRIME_URL"
+    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"

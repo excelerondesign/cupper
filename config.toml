@@ -1,7 +1,6 @@
 languageCode = "en-us"
 title = "exceleron.design"
 canonifyURLs = true
-baseURL = ""
 theme = "cupper"
 publishDir = "docs"
 enableEmoji = true

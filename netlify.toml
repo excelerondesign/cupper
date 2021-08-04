@@ -1,3 +1,8 @@
-[context.production.environment]
+[build]
     HUGO_VERSION = "0.86.1"
+[context.deploy-preview.environment]
+    HUGO_BASE_URL = "$DEPLOY_PRIME_URL"
+[context.branch-deploy.environment]
+    HUGO_BASE_URL = "$DEPLOY_PRIME_URL"
+[context.production.environment]
     HUGO_BASE_URL = "$DEPLOY_PRIME_URL"

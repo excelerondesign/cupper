@@ -1,4 +1,5 @@
 [build]
+    baseUrl = "$DEPLOY_PRIME_URL"
     HUGO_VERSION = "0.86.1"
 [context.deploy-preview]
     baseUrl = "$DEPLOY_PRIME_URL"

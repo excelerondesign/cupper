@@ -6,4 +6,4 @@
 [context.branch-deploy]
     command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
 [context.production]
-    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
+    command = "rm -rfv ./docs && hugo -b $DEPLOY_URL && sw-precache --root=docs"

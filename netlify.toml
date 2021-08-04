@@ -1,10 +1,9 @@
 [build]
-    baseUrl = "$DEPLOY_PRIME_URL"
     HUGO_VERSION = "0.86.1"
-    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
+    command = "rm -rfv ./docs && hugo -b $HUGO_BASE_URL && sw-precache --root=docs"
 [context.deploy-preview]
-    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
+    HUGO_BASE_URL = "$DEPLOY_PRIME_URL"
 [context.branch-deploy]
-    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
+    HUGO_BASE_URL = "$DEPLOY_PRIME_URL"
 [context.production]
-    command = "rm -rfv ./docs && hugo -b $DEPLOY_PRIME_URL && sw-precache --root=docs"
+    HUGO_BASE_URL = "$DEPLOY_PRIME_URL"

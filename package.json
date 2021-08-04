@@ -12,9 +12,6 @@
 		"update": "node lib/update.js",
 		"a11y": "(npm list pa11y-ci || npm install -g pa11y-ci) && pa11y-ci --sitemap http://localhost:1313/sitemap.xml --config lib/.pa11yci"
 	},
-	"pre-commit": [
-		"build"
-	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/excelerondesign/cupper.git"
@@ -26,8 +23,7 @@
 	},
 	"homepage": "https://github.com/excelerondesign/cupper#readme",
 	"devDependencies": {
-		"gitmoji-commit-hook": "^3.0.2",
-		"pre-commit": "^1.2.2"
+		"gitmoji-commit-hook": "^3.0.2"
 	},
 	"dependencies": {
 		"sw-precache": "^5.2.1"
